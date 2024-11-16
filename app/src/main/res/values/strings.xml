@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prodaja Rakije</string>
+    <string-array name="product_categories">
+        <item>Rakija</item>
+        <item>Vino</item>
+    </string-array>
+</resources>

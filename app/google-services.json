@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858752470177",
+    "project_id": "prodajarakije-bcbe2",
+    "storage_bucket": "prodajarakije-bcbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858752470177:android:d34fadbb7dd1f1d0a7f4e0",
+        "android_client_info": {
+          "package_name": "ba.sum.fsre.prodajarakije"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrsn7MbtxLtoPysQ0asyN-_uBX5f5HTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
